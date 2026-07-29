@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100%">
+
 # Hi There, I'm Abhijeet Verma <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/wave.gif" width="30px">
 
 </div>
@@ -27,6 +29,7 @@ I'm a final-year B.Tech Computer Science student who loves turning data and code
 - 🔍 Curious about how data tells a story
 - 🛠️ Enjoy building backend systems that just work
 - 🤖 Exploring practical AI/ML applications
+
 - 🎓 **Education:** B.Tech, Computer Science and Engineering @ ITS Engineering College
 - ⚙️ **Current Interests:** Data Analysis • Backend Development (Java) • Full Stack Java • Frontend Engineering
 - 🤝 **Open to:** Data Analyst roles • Full Stack Java Developer roles • Java Backend Developer roles • Internships & Collaboration
@@ -36,8 +39,11 @@ I'm a final-year B.Tech Computer Science student who loves turning data and code
 ## 🧠 Tech Stack
 
 **Languages:** Java • Python • C++ • JavaScript • HTML • CSS • SQL
+
 **Data Analysis:** NumPy • Pandas • Matplotlib • Seaborn • SQL
+
 **Full Stack Java:** HTML • CSS • React.js • Spring Boot
+
 **Tools & Others:** Git • GitHub • VS Code • REST APIs
 
 ---
@@ -56,8 +62,10 @@ An image analysis tool that detects whether an image is real or AI-generated/fak
 ## 📊 GitHub Stats
 
 <div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=DebugAbhii-not-found&show_icons=true&theme=transparent&hide_border=true" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DebugAbhii-not-found&theme=transparent&hide_border=true" width="48%" />
+
 </div>
 
 ---
@@ -77,9 +85,9 @@ An image analysis tool that detects whether an image is real or AI-generated/fak
 ### 💡 "Building today what I'll be proud of tomorrow."
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DebugAbhii-not-found/DebugAbhii-not-found/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DebugAbhii-not-found/DebugAbhii-not-found/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake" width="100%" src="https://raw.githubusercontent.com/DebugAbhii-not-found/DebugAbhii-not-found/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DebugAbhii-not-found/DebugAbhii-not-found/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DebugAbhii-not-found/DebugAbhii-not-found/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/DebugAbhii-not-found/DebugAbhii-not-found/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
