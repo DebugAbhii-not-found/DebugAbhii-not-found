@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100%">
-
 # Hi There, I'm Abhijeet Verma <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/wave.gif" width="30px">
 
 </div>
